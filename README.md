@@ -1,4 +1,4 @@
-Assignment 3 – Financial Engineering
+# Assignment 3 – Financial Engineering
 This repository contains:
 
 Assignment3.pdf: The detailed instructions and requirements for the assignment.
